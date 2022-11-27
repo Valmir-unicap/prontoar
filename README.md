@@ -19,6 +19,7 @@ Projeto desenvolvido na cadeira de Engenharia de Software 1, ministrada na cadei
 - SpringBoot
 - JavaScript
 - HTML
+- JUnit
 - CSS
 - Bootstrap
 - H2 Database
